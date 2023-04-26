@@ -1,6 +1,6 @@
 {
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
-  "name": "npm-registry-client",
+  "name": "@clinpm/npm-registry-client",
   "description": "Client for the npm registry",
   "version": "8.6.0",
   "repository": {
